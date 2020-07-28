@@ -1,2 +1,2 @@
 # studyflix - app 
-# acompanhando a imersão de React da Alura
+## acompanhando a imersão de React da Alura
